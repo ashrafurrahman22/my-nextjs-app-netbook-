@@ -7,5 +7,5 @@ Used Technologies:
 
 
 How to run ?
-Clone it and then type "npm run dev" command
-"localhost:3000" will show you the output
+* Clone it and then type 'npm run dev command
+* localhost:3000 will show you the output
