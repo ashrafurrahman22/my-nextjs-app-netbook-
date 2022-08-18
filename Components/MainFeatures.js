@@ -56,7 +56,7 @@ export default function MainFeatures() {
             </div>
             <div>
                 <h3 className='text-xl font-semibold'>Custom Module</h3>
-                <p>You can create Members, Groups Module. We already created 3 modules. It's by drag & drop live builder.</p>
+                <p>You can create Members, Groups Module. We already created 3 modules. Its by drag & drop live builder.</p>
             </div>
             </div>
         </div>
