@@ -44,7 +44,7 @@ export default function Navbar() {
                 <li><a>Submenu 2</a></li>
               </ul>
             </li>
-            <li><Link>Blog</Link></li>
+            <li><a>Blog</a></li>
             <li><a>Events</a></li>
 
           </ul>
